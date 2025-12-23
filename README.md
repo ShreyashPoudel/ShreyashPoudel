@@ -1,4 +1,4 @@
-नमस्ते
+# नमस्ते 🙏🏼
 👨‍💻 QA enthusiast <br>🧪 Skilled in Manual and automation testing, test case creation, execution, and defect tracking<br>📚 Learning Jest and CI/CD for Test Automation<br>🚀 Exploring Browserbase and Playwright MCP server<br>🔄 Interested in QA processes, Agile practices, and software quality
 
 
